@@ -19,7 +19,7 @@
 - 🔧 Currently training at **Emertxe Information Technologies** — ECEP (Embedded C Engineer Program)
 - 💡 Built multiple IoT and embedded hardware projects using Arduino, PIC, and ARM7
 - 🚀 Exploring **Edge AI & TinyML** — running intelligence directly on microcontrollers
-- 📍 Chennai, India | **Open to Work** — Embedded / Firmware / IoT Engineer roles
+- 📍 Bengaluru, India | **Open to Work** — Embedded / Firmware / IoT Engineer roles
 
 ---
 
@@ -69,18 +69,6 @@
 - 🥈 **2nd Place — PC Building** — BOOTUP 2023
 - 🏐 **Runner-Up — State Level Handball** — Kongu Engineering College, 2019
 - 🔬 **National Level Science Project** — Represented school among 250+ schools, 2017
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Santhosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhoshpandiansg&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshpandiansg&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
